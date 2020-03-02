@@ -3,4 +3,5 @@
 #Ejercicios Simples
 
 1.Escribir un programa que calcule el número de horas, minutos y segundos que hay en un
-  valor x de segundos indicados por el usuario.[primero](Programacion Basica Py/Hola Mundo.py)
+  valor x de segundos indicados por el usuario.
+  [Hola Mundo](Programacion Basica Py/Hola Mundo.py)
