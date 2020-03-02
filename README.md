@@ -6,7 +6,7 @@
   valor x de segundos indicados por el usuario.
   [Hola Mundo](https://github.com/matheo6/Ejercicios-de-Programacion-Basica/blob/master/Programacion%20Basica%20Py/Hola%20Mundo.py)
   
-11. Escribir un programa que calcula el IVA (16%) de un producto dado su valor de venta sin
+11.Escribir un programa que calcula el IVA (16%) de un producto dado su valor de venta sin
 IVA.[Iva](https://github.com/matheo6/Ejercicios-de-Programacion-Basica/blob/master/Programacion%20Basica%20Py/iva.py)
 
 18. Escribir un programa que detecte si un número introducido desde el teclado es positivo o negativo.[Positivo o negativo](https://github.com/matheo6/Ejercicios-de-Programacion-Basica/blob/master/Programacion%20Basica%20Py/positivo_o_negativo.py)
