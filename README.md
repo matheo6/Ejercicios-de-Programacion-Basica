@@ -54,7 +54,7 @@ que se deben implementar son suma, resta, multiplicación y división.[modulohex
 anterior[Leer he imprimir tabla ASCII](https://github.com/matheo6/Ejercicios-de-Programacion-Basica/blob/master/Programacion%20Basica%20Py/leerE%20imprimirASCII.py)
 
 90. Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a
-cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio.[cronometro](https://github.com/matheo6/Ejercicios-de-Programacion-Basica/blob/master/Programacion%20Basica%20Py/Cronometro.py
+cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio.[cronometro](https://github.com/matheo6/Ejercicios-de-Programacion-Basica/blob/master/Programacion%20Basica%20Py/Cronometro.py)
 
 91. Modifique el ejercicio anterior para que el conteo se haga hacia atrás desde el tiempo leído
 hasta cero.[cronometro inverso](https://github.com/matheo6/Ejercicios-de-Programacion-Basica/blob/master/Programacion%20Basica%20Py/CronometroInverso.py)
